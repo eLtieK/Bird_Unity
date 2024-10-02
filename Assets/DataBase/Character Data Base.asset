@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cfd201ece988d54e961b1180edb2d74, type: 3}
+  m_Name: Character Data Base
+  m_EditorClassIdentifier: 
+  character:
+  - characterSprite: {fileID: 21300000, guid: ee510b3d732d41542a25584d52163684, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 9719b06a900eef140a3fd530e84ffa52, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 20fbace316987574182c30348e8f1f76, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 47d01aa2742a0e440ac1832642c58ec5, type: 3}
+  - characterSprite: {fileID: 21300000, guid: e8eefb0f8d89d514fbee5b5abb76a2cf, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 7e52ddfba95ca464c82914df0c8fb4b6, type: 3}
+  - characterSprite: {fileID: 21300000, guid: b7ad3c4522cf53b409618e516c6afb69, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 06aba842309313746979ed19c3d29609, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 544cec06bc539c1409c0e10b0ccc19b7, type: 3}
+  - characterSprite: {fileID: 21300000, guid: ccb0607716abda04fbc060e415d35e84, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 3f92cdc2088fa9b4fbd6415f214966d7, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 1306e4f9ae68ecd499b433d03d5cf00f, type: 3}
+  - characterSprite: {fileID: 21300000, guid: 1069eddc1f928fb40aca79339994c5ce, type: 3}

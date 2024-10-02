@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3dec41c2adcc544a4b3f3838db3b29, type: 3}
+  m_Name: Background Data Base
+  m_EditorClassIdentifier: 
+  background:
+  - backgroundSprite: {fileID: 21300000, guid: 1fca858e6a4b42b4e89903d4daa662c7, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 8d02c3ff821f068418419b4664b2fad9, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: e6b849f49fe8e464ea50dfae08eb3e50, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 1012b22ce32cafb41900efd5c86f31d2, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: c63d4a8d3eb37fc4892e59b34dc2dd79, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: d25fd14a8414f424891c20280291a6f1, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 32716fc9c7509ae4da5203752a77a296, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 9d6fcb6d7f629a44ea26898a129b1fd2, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 352d29bbc9da35b4092649d4ceae05ae, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 5762c9599b63e764cb1078d53486c8bb, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: e5f57261161db0a43bd46418c4c8503c, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 682b900a81ad4d849ab2467f6abfa49e, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 5e6f97b35a952b240badb582872e886a, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: c57bc08884d1c644087a4aeba99e12f8, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: c90b6cc2b7298944387c5dc9cf76fe3d, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 1e2a61f9ac543bf48a273b6a3cd954b8, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 32716fc9c7509ae4da5203752a77a296, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: b963b73c75fe6d44ba43a051b028494c, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: dcc4508a99fd296409434e8311592ac3, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 2b246211b04953a4290eced38208e27f, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: cc2120f220fe4404aa3613584af2b70c, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 17539441887b466468dae45627f40162, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 8d02c3ff821f068418419b4664b2fad9, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: cdd1d17746c334b48b70b19392fc1c20, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: c7a997bcdd06d2241b71ba1bd362d48f, type: 3}
+  - backgroundSprite: {fileID: 21300000, guid: 2e83e18e3a4dcd4468548373e1cfffae, type: 3}
